@@ -58,6 +58,8 @@ h2, h4, h6 {
 .hero-title {
     color: white;
     text-align: center;
+    font-size: 64px;
+    margin-bottom: 24px;
 }
 
 .hero-desc {

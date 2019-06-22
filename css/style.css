@@ -98,6 +98,14 @@ h2, h4, h6 {
     .hero-description {
         font-size: 16px;
     }
+
+    .navbar {
+        max-width: 100%;
+    }
+
+    .about {
+        max-width: 100%;
+    }
  }
 
  .about {

@@ -127,6 +127,10 @@ h2, h4, h6 {
     margin-bottom: 24px;
 }
 
+.about-text {
+    opacity: 0.65;
+}
+
 @media only screen and (max-width: 600px) {
     .hero-title {
         font-size: 32px;

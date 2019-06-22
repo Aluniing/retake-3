@@ -106,6 +106,13 @@ h2, h4, h6 {
     .about {
         max-width: 600px;
     }
+
+    .cards {
+        display: grid;
+        grid-template-rows: repeat(3, 1fr);
+        align-items: baseline;
+    }
+
  }
 
  @media only screen and (max-width: 400px) {
@@ -124,6 +131,13 @@ h2, h4, h6 {
     .about {
         max-width: 400px;
     }
+
+    .cards {
+        display: grid;
+        grid-template-rows: repeat(3, 1fr);
+        align-items: baseline;
+    }
+    
  }
 
  .about {

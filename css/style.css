@@ -122,6 +122,10 @@ h2, h4, h6 {
      margin-bottom: 24px;
  }
 
+ .about-text {
+     font-weight: 400;
+ }
+
  .card {
      justify-items: center;
      justify-content: space-around;

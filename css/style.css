@@ -120,10 +120,6 @@ h2, h4, h6 {
     margin-top: 24px;
 }
 
- .about-title {
-     margin-bottom: 24px;
- }
-
  .about-text {
      font-weight: 400;
  }
@@ -137,4 +133,8 @@ h2, h4, h6 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 100px;
+}
+
+.intro>.title {
+    margin-bottom: 24px;
 }

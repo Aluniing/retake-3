@@ -100,11 +100,11 @@ h2, h4, h6 {
     }
 
     .navbar {
-        max-width: 100%;
+        max-width: 600px;
     }
 
     .about {
-        max-width: 100%;
+        max-width: 600px;
     }
  }
 

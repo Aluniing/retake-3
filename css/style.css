@@ -123,16 +123,13 @@ h2, h4, h6 {
  .about-text {
      font-weight: 400;
  }
-
- .card {
-     justify-items: center;
-     justify-content: space-around;
- }
-
+ 
  .cards {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 100px;
+    justify-items: center;
+    justify-content: space-around;
 }
 
 .intro>.title {

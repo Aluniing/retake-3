@@ -58,7 +58,7 @@ h2, h4, h6 {
 .hero-title {
     color: white;
     text-align: center;
-    font-size: 56px;
+    font-size: 36px;
 }
 
 .hero-desc {
@@ -187,10 +187,6 @@ h2, h4, h6 {
 
  .card>p {
      opacity: 0.65;
- }
-
- div>h1 {
-     font-size: 40px;
  }
 
  .menu>.link {

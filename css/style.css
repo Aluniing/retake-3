@@ -133,6 +133,7 @@ h2, h4, h6 {
 
 .subtitle {
     opacity: 0.75;
+    margin-top: -6px;
 }
 
 @media only screen and (max-width: 600px) {

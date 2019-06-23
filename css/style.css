@@ -195,3 +195,7 @@ h2, h4, h6 {
  .menu>.link {
      margin-left: 24px;
  }
+
+ h5+p {
+     font-size: 24px;
+ }

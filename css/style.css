@@ -131,6 +131,11 @@ h2, h4, h6 {
     opacity: 0.65;
 }
 
+.subtitle {
+    font-weight: 250;
+    opacity: 0.75;
+}
+
 @media only screen and (max-width: 600px) {
     .hero-title {
         font-size: 32px;

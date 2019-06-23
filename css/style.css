@@ -132,7 +132,7 @@ h2, h4, h6 {
 }
 
 .subtitle {
-    font-weight: 250;
+    font-weight: 300;
     opacity: 0.75;
 }
 
@@ -192,4 +192,8 @@ h2, h4, h6 {
 
  div>h1 {
      font-size: 40px;
+ }
+
+ .menu>.link {
+     margin-left: 24px;
  }

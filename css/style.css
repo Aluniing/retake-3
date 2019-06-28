@@ -80,6 +80,7 @@ h2, h4, h6 {
     padding: 16px 32px;
     margin-left: 10px;
     text-decoration: none;
+    border-radius: 7px;
 }
 
 .btn-primary {
@@ -200,6 +201,10 @@ h2, h4, h6 {
  h5+p {
      font-size: 20px;
  }
+
+.email {
+    text-align: center;
+}
 
  .btn-secondary {
      color: black;

@@ -11,15 +11,15 @@
     <body>
         <nav class="navbar" id="navbar">
             <div class="container">
-            <a href="#" class="logo link">Yer Nightside Shoppe</a>
+            <a href="#hero" class="logo link">Yer Nightside Shoppe</a>
             <div class="menu">
-                <a href="#" class="link">Home</a>
-                <a href="#" class="link">About</a>
-                <a href="#" class="link">Contact</a>    
+                <a href="#hero" class="link">Home</a>
+                <a href="#about" class="link">About</a>
+                <a href="#contact" class="link">Contact</a>    
             </div>
             </div>
             </nav>
-            <section class="hero">
+            <section class="hero" id="hero">
         <div class="container">
             <h1 class="hero-title">Buy From the Shoppe</h1>
             <p class="hero-desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium sunt sint molestias quam amet magnam, necessitatibus aliquam eius laboriosam non aliquid provident dolore, nisi, quae voluptatibus aperiam perferendis molestiae ex.</p>
@@ -29,7 +29,7 @@
             </div>
         </div>
     </section>
-            <section class="about">
+            <section class="about" id="about">
                     <div class="container">
                     <div class="intro">   
                     <h1 class="title">Our Goal</h1>
@@ -65,8 +65,16 @@
                     </div>
                 </div>
             </div>
-            </section>
+        </section>
+        <section class="contact" id="contact">
+            <div class="container">
+            <div class="email">
+                <h1 class="title">Contact</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam cupiditate nobis praesentium doloremque enim alias velit perferendis eius, beatae minima tempore repellendus earum reiciendis officiis dolorum nemo maiores nam! Eaque.</p>
+                <a href="#">Email Us!</a>
+            </div>
         </div>
+        </section>
         <script>
                 window.onscroll = function navbarTransition() {
                     let navbar = document.getElementById("navbar");

@@ -16,6 +16,7 @@ h2, h4, h6 {
     position: fixed;
     justify-content: space-between;
     transition: .2s;
+    z-index: 2;
 }
 
 .navbar.scrolled {

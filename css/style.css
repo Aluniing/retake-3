@@ -204,7 +204,6 @@ h2, h4, h6 {
 
 .email {
     text-align: center;
-    margin-bottom: 200px;
 }
 
  .btn-secondary {
@@ -217,3 +216,7 @@ h2, h4, h6 {
      font-weight: 300;
      font-size: 24px;
  }
+
+.email, .intro, .about, .hero {
+    margin-bottom: 200px;
+}

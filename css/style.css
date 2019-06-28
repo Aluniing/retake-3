@@ -83,7 +83,7 @@ h2, h4, h6 {
 }
 
 .btn-primary {
-    background: #933089;
+    background:  hsl(240, 45%, 10%);
     color: white;
 }
 
@@ -199,4 +199,9 @@ h2, h4, h6 {
 
  h5+p {
      font-size: 20px;
+ }
+
+ .btn-secondary {
+     color: black;
+     background:  hsl(240, 45%, 60%);
  }
